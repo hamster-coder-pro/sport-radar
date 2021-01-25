@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SportRadar.Services", "SportRadar.Services\SportRadar.Services.csproj", "{31030B8F-9417-4894-9CA9-779446C28F27}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SportRadar.Services.Tests", "SportRadar.Services.Tests\SportRadar.Services.Tests.csproj", "{85ED87A5-452D-4CC6-8A35-A8D0B7552FB7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9D1CAE5D-2A62-4F3E-BAEF-D3B878B7745F}"
+	ProjectSection(SolutionItems) = preProject
+		..\README.md = ..\README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31030B8F-9417-4894-9CA9-779446C28F27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31030B8F-9417-4894-9CA9-779446C28F27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31030B8F-9417-4894-9CA9-779446C28F27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31030B8F-9417-4894-9CA9-779446C28F27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85ED87A5-452D-4CC6-8A35-A8D0B7552FB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85ED87A5-452D-4CC6-8A35-A8D0B7552FB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85ED87A5-452D-4CC6-8A35-A8D0B7552FB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85ED87A5-452D-4CC6-8A35-A8D0B7552FB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D8169D9-D706-4844-9E68-1229E22E072F}
+	EndGlobalSection
+EndGlobal
